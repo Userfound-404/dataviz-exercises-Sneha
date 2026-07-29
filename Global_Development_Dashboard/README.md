@@ -110,9 +110,8 @@ The merge logic (join keys, cleaning, derived `gdp_per_capita`) is fully
 visible and reproducible in `build_master_dataset.py`.
 
 ## Dashboard screenshots
+<img width="1710" height="1112" alt="Screenshot 2026-07-29 at 9 56 15 PM" src="https://github.com/user-attachments/assets/0ddef21c-0d5f-47a9-aaf8-0881aaba3ec3" />
 
-*(Add screenshots here after running the app locally, e.g.
-`assets/screenshot_executive_summary.png`.)*
 
 ## Future improvements
 
