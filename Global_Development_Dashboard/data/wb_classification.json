@@ -1,0 +1,998 @@
+{
+ "AFG": {
+  "region": "Asia",
+  "income_group": "Low income"
+ },
+ "ALA": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "ALB": {
+  "region": "Europe",
+  "income_group": "Upper middle income"
+ },
+ "DZA": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "ASM": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "AND": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "AGO": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "AIA": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "ATA": {
+  "region": null,
+  "income_group": "Not classified"
+ },
+ "ATG": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "ARG": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "ARM": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "ABW": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "AUS": {
+  "region": "Oceania",
+  "income_group": "High income"
+ },
+ "AUT": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "AZE": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "BHS": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "BHR": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "BGD": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "BRB": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "BLR": {
+  "region": "Europe",
+  "income_group": "Upper middle income"
+ },
+ "BEL": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "BLZ": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "BEN": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "BMU": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "BTN": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "BOL": {
+  "region": "Americas",
+  "income_group": "Lower middle income"
+ },
+ "BES": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "BIH": {
+  "region": "Europe",
+  "income_group": "Upper middle income"
+ },
+ "BWA": {
+  "region": "Africa",
+  "income_group": "Upper middle income"
+ },
+ "BVT": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "BRA": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "IOT": {
+  "region": "Africa",
+  "income_group": "Not classified"
+ },
+ "BRN": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "BGR": {
+  "region": "Europe",
+  "income_group": "Upper middle income"
+ },
+ "BFA": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "BDI": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "CPV": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "KHM": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "CMR": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "CAN": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "CYM": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "CAF": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "TCD": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "CHL": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "CHN": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "CXR": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "CCK": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "COL": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "COM": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "COG": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "COD": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "COK": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "CRI": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "CIV": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "HRV": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "CUB": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "CUW": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "CYP": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "CZE": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "DNK": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "DJI": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "DMA": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "DOM": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "ECU": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "EGY": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "SLV": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "GNQ": {
+  "region": "Africa",
+  "income_group": "Upper middle income"
+ },
+ "ERI": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "EST": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "SWZ": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "ETH": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "FLK": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "FRO": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "FJI": {
+  "region": "Oceania",
+  "income_group": "Upper middle income"
+ },
+ "FIN": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "FRA": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "GUF": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "PYF": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "ATF": {
+  "region": "Africa",
+  "income_group": "Not classified"
+ },
+ "GAB": {
+  "region": "Africa",
+  "income_group": "Upper middle income"
+ },
+ "GMB": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "GEO": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "DEU": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "GHA": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "GIB": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "GRC": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "GRL": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "GRD": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "GLP": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "GUM": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "GTM": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "GGY": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "GIN": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "GNB": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "GUY": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "HTI": {
+  "region": "Americas",
+  "income_group": "Lower middle income"
+ },
+ "HMD": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "VAT": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "HND": {
+  "region": "Americas",
+  "income_group": "Lower middle income"
+ },
+ "HKG": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "HUN": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "ISL": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "IND": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "IDN": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "IRN": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "IRQ": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "IRL": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "IMN": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "ISR": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "ITA": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "JAM": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "JPN": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "JEY": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "JOR": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "KAZ": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "KEN": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "KIR": {
+  "region": "Oceania",
+  "income_group": "Lower middle income"
+ },
+ "PRK": {
+  "region": "Asia",
+  "income_group": "Low income"
+ },
+ "KOR": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "KWT": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "KGZ": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "LAO": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "LVA": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "LBN": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "LSO": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "LBR": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "LBY": {
+  "region": "Africa",
+  "income_group": "Upper middle income"
+ },
+ "LIE": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "LTU": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "LUX": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "MAC": {
+  "region": "Asia",
+  "income_group": "Not classified"
+ },
+ "MDG": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "MWI": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "MYS": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "MDV": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "MLI": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "MLT": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "MHL": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "MTQ": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "MRT": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "MUS": {
+  "region": "Africa",
+  "income_group": "Upper middle income"
+ },
+ "MYT": {
+  "region": "Africa",
+  "income_group": "Not classified"
+ },
+ "MEX": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "FSM": {
+  "region": "Oceania",
+  "income_group": "Lower middle income"
+ },
+ "MDA": {
+  "region": "Europe",
+  "income_group": "Upper middle income"
+ },
+ "MCO": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "MNG": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "MNE": {
+  "region": "Europe",
+  "income_group": "Upper middle income"
+ },
+ "MSR": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "MAR": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "MOZ": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "MMR": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "NAM": {
+  "region": "Africa",
+  "income_group": "Upper middle income"
+ },
+ "NRU": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "NPL": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "NLD": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "NCL": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "NZL": {
+  "region": "Oceania",
+  "income_group": "High income"
+ },
+ "NIC": {
+  "region": "Americas",
+  "income_group": "Lower middle income"
+ },
+ "NER": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "NGA": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "NIU": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "NFK": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "MKD": {
+  "region": "Europe",
+  "income_group": "Upper middle income"
+ },
+ "MNP": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "NOR": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "OMN": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "PAK": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "PLW": {
+  "region": "Oceania",
+  "income_group": "Upper middle income"
+ },
+ "PSE": {
+  "region": "Asia",
+  "income_group": "Not classified"
+ },
+ "PAN": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "PNG": {
+  "region": "Oceania",
+  "income_group": "Lower middle income"
+ },
+ "PRY": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "PER": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "PHL": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "PCN": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "POL": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "PRT": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "PRI": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "QAT": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "REU": {
+  "region": "Africa",
+  "income_group": "Not classified"
+ },
+ "ROU": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "RUS": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "RWA": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "BLM": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "SHN": {
+  "region": "Africa",
+  "income_group": "Not classified"
+ },
+ "KNA": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "LCA": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "MAF": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "SPM": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "VCT": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "WSM": {
+  "region": "Oceania",
+  "income_group": "Upper middle income"
+ },
+ "SMR": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "STP": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "SAU": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "SEN": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "SRB": {
+  "region": "Europe",
+  "income_group": "Upper middle income"
+ },
+ "SYC": {
+  "region": "Africa",
+  "income_group": "High income"
+ },
+ "SLE": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "SGP": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "SXM": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "SVK": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "SVN": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "SLB": {
+  "region": "Oceania",
+  "income_group": "Lower middle income"
+ },
+ "SOM": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "ZAF": {
+  "region": "Africa",
+  "income_group": "Upper middle income"
+ },
+ "SGS": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "SSD": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "ESP": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "LKA": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "SDN": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "SUR": {
+  "region": "Americas",
+  "income_group": "Upper middle income"
+ },
+ "SJM": {
+  "region": "Europe",
+  "income_group": "Not classified"
+ },
+ "SWE": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "CHE": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "SYR": {
+  "region": "Asia",
+  "income_group": "Low income"
+ },
+ "TWN": {
+  "region": null,
+  "income_group": "High income"
+ },
+ "TJK": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "TZA": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "THA": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "TLS": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "TGO": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "TKL": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "TON": {
+  "region": "Oceania",
+  "income_group": "Upper middle income"
+ },
+ "TTO": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "TUN": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "TUR": {
+  "region": "Asia",
+  "income_group": "Upper middle income"
+ },
+ "TKM": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "TCA": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "TUV": {
+  "region": "Oceania",
+  "income_group": "Upper middle income"
+ },
+ "UGA": {
+  "region": "Africa",
+  "income_group": "Low income"
+ },
+ "UKR": {
+  "region": "Europe",
+  "income_group": "Lower middle income"
+ },
+ "ARE": {
+  "region": "Asia",
+  "income_group": "High income"
+ },
+ "GBR": {
+  "region": "Europe",
+  "income_group": "High income"
+ },
+ "USA": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "UMI": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "URY": {
+  "region": "Americas",
+  "income_group": "High income"
+ },
+ "UZB": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "VUT": {
+  "region": "Oceania",
+  "income_group": "Lower middle income"
+ },
+ "VEN": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "VNM": {
+  "region": "Asia",
+  "income_group": "Lower middle income"
+ },
+ "VGB": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "VIR": {
+  "region": "Americas",
+  "income_group": "Not classified"
+ },
+ "WLF": {
+  "region": "Oceania",
+  "income_group": "Not classified"
+ },
+ "ESH": {
+  "region": "Africa",
+  "income_group": "Not classified"
+ },
+ "YEM": {
+  "region": "Asia",
+  "income_group": "Low income"
+ },
+ "ZMB": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ },
+ "ZWE": {
+  "region": "Africa",
+  "income_group": "Lower middle income"
+ }
+}
